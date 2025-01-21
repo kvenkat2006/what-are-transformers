@@ -1,0 +1,1 @@
+I created these notebooks for to make sure I understand Transformer Architecture in detail. I will be glad if you find this useful. If you see opportunities to improve the quality of content, or to improve completeness of content in the limited context of understanding the Transformer Architecture, please let me know. 
